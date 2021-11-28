@@ -1,0 +1,17 @@
+{
+    "path": "/",
+    "name": "File Explorer",
+    "/": [
+        {
+            "name": "Documents",
+            "type": "folder",
+            "path": "/Documents",
+            "/Documents": []
+        },
+        {
+            "name": "Resume.pdf",
+            "type": "file",
+            "ext": "pdf"
+        }
+    ]
+}
